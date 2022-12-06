@@ -1,0 +1,41 @@
+{
+    // DO NOT MODIFY : PLEASE SEND A MESSAGE TO UI-COUNCIL TO DISCUSS FURTHER
+    // Prettier Configs
+    "prettier.printWidth": 180,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.quoteProps": "as-needed",
+    "prettier.jsxSingleQuote": false,
+    "prettier.trailingComma": "es5",
+    "prettier.arrowParens": "always",
+    "prettier.bracketSpacing": true,
+    "prettier.useTabs": false,
+    "prettier.semi": true,
+    "prettier.jsxBracketSameLine": false,
+    "prettier.proseWrap": "never",
+    "prettier.htmlWhitespaceSensitivity": "css",
+    // General Editor Configs
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrapColumn": 180,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // HTML Custom Settings
+    "html.format.enable": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // Typescript Custom Settings
+    "typescript.format.enable": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // JSON Custom Settings
+    "json.format.enable": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // Others
+    // "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}
